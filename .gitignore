@@ -1,0 +1,27 @@
+# PowerShell / temporary files
+
+*.tmp
+*.temp
+
+# Logs
+
+*.log
+
+# Local search/output files
+
+results/
+output/
+
+# Personal notes / local files
+
+notes/
+private/
+
+# OS files
+
+Thumbs.db
+.DS_Store
+
+# VS Code
+
+.vscode/
